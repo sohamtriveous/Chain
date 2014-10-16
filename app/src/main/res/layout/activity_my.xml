@@ -15,7 +15,7 @@
         android:lines="4"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
-        android:text="A fragment must always be embedded in an activity and the fragment" />
+        android:text="book king airship goa" />
 
     <FrameLayout
         android:id="@+id/activity_my_results_framelayout"
